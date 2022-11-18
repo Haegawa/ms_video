@@ -1,1 +1,2 @@
-# video_test
+# video
+MoonShotのデモンストレーションのための動画
