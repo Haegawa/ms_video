@@ -1,2 +1,3 @@
-# video
+# MS_video
 MoonShotのデモンストレーションのための動画
+htmlでこれらの動画を呼び出す
